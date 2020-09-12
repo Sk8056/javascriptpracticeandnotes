@@ -20,3 +20,8 @@ var arr = [1,2,3];
 var newarr = arr.filter((num) => num != 1);
 console.log(newarr);
 
+//splice(indextostart, countfromindextostart, replacevalue, replacevalue);
+//slice(index(inclusive), index(exclusive))
+
+
+
